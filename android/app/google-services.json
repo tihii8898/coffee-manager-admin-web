@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "343396879737",
+    "project_id": "flutter-coffee-manager-web",
+    "storage_bucket": "flutter-coffee-manager-web.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343396879737:android:a4607b100eda7153bc33a8",
+        "android_client_info": {
+          "package_name": "com.example.coffee_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343396879737-4iqopfd7c0ju4ut0pqjvefd2u0skjrae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpvAUb5lKLGOMUT8WisqmPXe71-SBkztU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343396879737-4iqopfd7c0ju4ut0pqjvefd2u0skjrae.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "343396879737-7nj4u5tll42c9a0cau5o5ne4k95mcc4u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.coffeeManager"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
